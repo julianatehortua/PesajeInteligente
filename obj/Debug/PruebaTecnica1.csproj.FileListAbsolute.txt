@@ -1,0 +1,17 @@
+C:\Users\derai\source\repos\PruebaTecnica1\bin\Debug\PruebaTecnica1.exe.config
+C:\Users\derai\source\repos\PruebaTecnica1\bin\Debug\PruebaTecnica1.exe
+C:\Users\derai\source\repos\PruebaTecnica1\bin\Debug\PruebaTecnica1.pdb
+C:\Users\derai\source\repos\PruebaTecnica1\bin\Debug\EntityFramework.dll
+C:\Users\derai\source\repos\PruebaTecnica1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\derai\source\repos\PruebaTecnica1\bin\Debug\EntityFramework.xml
+C:\Users\derai\source\repos\PruebaTecnica1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTecnica1.csproj.AssemblyReference.cache
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTecnica1.Properties.Resources.resources
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTecnica1.csproj.GenerateResource.cache
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTecnica1.csproj.CoreCompileInputs.cache
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTe.D2D0721B.Up2Date
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTecnica1.exe
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTecnica1.pdb
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTecnica1.Migrations.InitialCreate.resources
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTecnica1.Forms.FormCompanyEditor.resources
+C:\Users\derai\source\repos\PruebaTecnica1\obj\Debug\PruebaTecnica1.FormCompanyList.resources
